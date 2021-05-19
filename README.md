@@ -1,9 +1,11 @@
 Calculadora JavaScript
 ======================
 
-<https://www.hcode.com.br>
+ 
 
-Calculadora desenvolvida  no Curso Completo de JavaScript na Udemy.com.
+Calculadora desenvolvida no Curso Completo de JavaScript na Udemy.com.
+
+Apenas a parte JS foi desenvolvida pelo aluno.
 
 ###  
 
